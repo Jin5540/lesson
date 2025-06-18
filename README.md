@@ -40,6 +40,7 @@ lesson-main/
 
 - [ERD 다이어그램](docs/ERD.md)
 - [서비스 구조 설명](docs/architecture.md)
+- [API 명세서](docs/API.md)
 - [트러블슈팅 & 회고](docs/troubleshooting.md)
 
 ---
